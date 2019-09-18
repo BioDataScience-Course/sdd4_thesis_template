@@ -1,0 +1,12 @@
+book_filename: "sdd4_thesis_template"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapitre "
+  label:
+    fig: 'Figure '
+    tab: 'Tableau '
+    eq: 'Equation '
+    def: 'Définition '
+    exm: 'Exemple '
+    exr: 'Exercice '
